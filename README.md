@@ -5,7 +5,7 @@ Whatsapp Chatbot using machine learning, Papaya Conversational Data Set
   <br>
   <ul>
     <li> Selenium is used to fetch and send the data using whatsapp web.</li>
-    <li> Machine learning using <a href="https://data.mendeley.com/" target="_blank" rel="noopener noreferrer">papaya dataset</a> is used to process the messages from other users and give them a proper response. </li>
+    <li> Machine learning using <a href="https://data.mendeley.com/" target="_blank">papaya dataset</a> is used to process the messages from other users and give them a proper response. </li>
    
   </ul>
   <br>
