@@ -9,5 +9,11 @@ Whatsapp Chatbot using machine learning, Papaya Conversational Data Set
    
   </ul>
   <br>
+  
+  <b>Steps:</b>
+  1. Just excecute the program and a chrome window will pop up showing a QR Code.
+  2. Open WhatsApp in your mobile device and click on the top right menu (3 dots).
+  3. Click on <b>Linked devices</b> and then click on <b>LINK A DEVICE</b>.
+  4. Scan the code and enjoy the magic.
  
   <b>NOTE:</b>  Code to process the messages (Machine learning part) is not added right now. I am working on optimization and other improvements. It will be added soon. 
